@@ -1,45 +1,54 @@
-<h1 align="center">Hi, I'm Khafidz 👋</h1>
-
-<p align="center">
-  <a href="https://khafidzdev.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full-Stack+%2F+Web+Developer;Building+clean%2C+fast+%26+functional+apps;Visit+khafidzdev.my.id" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Khafidz Rizziq Al Huda 👋</h1>
+<p align="center"><b>Software Developer</b> • Tegal, Indonesia</p>
 
 <p align="center">
   <a href="https://khafidzdev.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-khafidzdev.my.id-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-khafidzdev.my.id-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 💡 About Me
+A software developer focused on transforming ideas into ready-to-use digital products. I offer services for **websites, web apps, mobile apps, and IoT & AI integrations**. For me, technology should solve real business problems through secure, reliable, and easy-to-use systems.
 
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages & Web**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**DevOps, Infrastructure & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/FrankenPHP-000000?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📌 About Me
-* 🌐 **Portfolio:** Check out my latest work at [khafidzdev.my.id](https://khafidzdev.my.id)
-* 🚀 **Current Focus:** Crafting web apps with Laravel & modern JS frameworks
-* 🎯 **Goals:** Clean code, fast load times, and smooth user experience
-* 🤝 **Open For:** Web development projects & freelancing
+### 📌 Services & What I Do
+* 🌐 **Web & App Development:** Custom websites, web apps, and mobile applications
+* 🤖 **IoT & AI Integration:** Smart hardware automation and AI workflows
+* ⚙️ **DevOps & Hosting:** Server setup, Dockerization, and deployment
 
 ---
 
-### 📫 Connect
-* **Website:** [khafidzdev.my.id](https://khafidzdev.my.id)
-* **Email:** [email-kamu@domain.com]
-* **LinkedIn:** [linkedin.com/in/username-kamu]
+### 📫 Let's Connect
+* 🌐 **Website:** [khafidzdev.my.id](https://khafidzdev.my.id)
+* 📍 **Location:** Tegal, Central Java, Indonesia
 
 <br>
 
